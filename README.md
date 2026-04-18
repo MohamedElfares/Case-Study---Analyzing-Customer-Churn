@@ -66,7 +66,7 @@ Contract type breakdown:
 - Two Year: 26.87%
 - One Year: 22.12%
 
-![Groups and Categories](Images/groups and categories.png)
+![Groups and Categories](Images/Groups%20and%20Categories.png)
 
 ---
 
@@ -74,9 +74,9 @@ Contract type breakdown:
 
 Customers with an unlimited data plan churn at 32.11%, compared to 16.10% for those without one. Interestingly, customers with an unlimited plan who consume less than 5 GB churn at 34.71%, while those without the plan in the same consumption bracket churn at only 12.31%. This suggests that many customers may be paying for a plan they do not actually need.
 
-![Unlimited Plan](Images/unlimited_plan.png)
+![Unlimited Plan](Images/Unlimited%20Plan.png)
 
-![Extra Charges](Images/extra_charges.png)
+![Extra Charges](Images/Extra%20Charges.png)
 
 ---
 
@@ -89,7 +89,7 @@ Payment method breakdown by customer count:
 - Credit Card: 39.09%
 - Paper Check: 5.55%
 
-![Contract Type](Images/contract_type.png)
+![Contract Type](Images/Contract%20Type.png)
 
 ---
 
@@ -97,7 +97,7 @@ Payment method breakdown by customer count:
 
 ### Overview
 
-![Overview](Images/overview.png)
+![Overview](Images/Overview.png)
 
 The overview page consolidates the key metrics and shows that California stands out on the map as having the highest churn rate despite having a relatively small customer base compared to other states.
 
@@ -105,7 +105,7 @@ The overview page consolidates the key metrics and shows that California stands 
 
 ### Age Groups
 
-![Age Groups](Images/age_groups.png)
+![Age Groups](Images/Age%20Groups.png)
 
 This page reinforces the demographic findings: older customers churn at higher rates, and monthly billing is strongly associated with churn across all gender segments.
 
@@ -113,7 +113,7 @@ This page reinforces the demographic findings: older customers churn at higher r
 
 ### Extra Charges
 
-![Extra Charges](Images/extra_charges.png)
+![Extra Charges](Images/Extra%20Charges.png)
 
 Average extra international charges sit at $33.64, while average extra data charges are $3.37. The chart confirms that customers with unlimited plans who use less than 5 GB are the most likely to churn, pointing to a mismatch between plan type and actual usage.
 
@@ -121,7 +121,7 @@ Average extra international charges sit at $33.64, while average extra data char
 
 ### Insights
 
-![Insights](Images/insights.png)
+![Insights](Images/Insights.png)
 
 Total customer service calls: 6,123. Average per customer: 0.92.
 
