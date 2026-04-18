@@ -46,7 +46,7 @@ The age vs. churn chart shows that customers between 20 and 60 make up the large
 
 The churn reason chart highlights that roughly 44% of churned customers left because of a competitor.
 
-![Churn Demographics](Images/Churn Demographics.png)
+![Churn Demographics](Images/Churn%20Demographics.png)
 
 ---
 
