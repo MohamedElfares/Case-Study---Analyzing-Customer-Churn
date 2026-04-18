@@ -66,7 +66,7 @@ Contract type breakdown:
 - Two Year: 26.87%
 - One Year: 22.12%
 
-![Groups and Categories](Images/groups_and_categories.png)
+![Groups and Categories](Images/groups and categories.png)
 
 ---
 
